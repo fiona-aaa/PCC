@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/my project/vivado projects/3_regfile/regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/my project/vivado projects/3_regfile/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb
