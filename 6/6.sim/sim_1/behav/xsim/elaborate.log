@@ -1,0 +1,8 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: E:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 0eb91daacb9a4243a283afea07fa18b1 --incr --debug typical --relax --mt 2 -L blk_mem_gen_v8_4_2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot tb_behav xil_defaultlib.tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-3180] cannot find port 'inst' on this module [F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/single_cycle_cpu.v:50]
+ERROR: [VRFC 10-3180] cannot find port 'addr' on this module [F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/single_cycle_cpu.v:49]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

@@ -1,0 +1,12 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/adder.v,1461905924,verilog,,F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/alu.v,,adder,,,,,,,,
+F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/alu.v,1461985380,verilog,,F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/data_ram.v,,alu,,,,,,,,
+F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/data_ram.v,1461985414,verilog,,F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/regfile.v,,data_ram,,,,,,,,
+F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/regfile.v,1461985342,verilog,,F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/single_cycle_cpu.v,,regfile,,,,,,,,
+F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/single_cycle_cpu.v,1462794826,verilog,,F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/tb.v,,single_cycle_cpu,,,,,,,,
+F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/tb.v,1660733468,verilog,,,,tb,,,,,,,,
+F:/project_set/vivado_projects/PCC/scc/scc.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/project_set/vivado_projects/PCC/scc/scc.srcs/sources_1/ip/inst_rom/sim/inst_rom.v,1660737407,verilog,,F:/project_set/vivado_projects/PCC/6_single_cycle_cpu/adder.v,,inst_rom,,,,,,,,

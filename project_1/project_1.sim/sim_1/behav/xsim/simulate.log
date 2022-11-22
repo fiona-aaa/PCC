@@ -1,0 +1,3 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+WARNING: File D:/Downloads/CPU-master/rom.data referenced on F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/dmem.v at line 37 cannot be opened for reading. Please ensure that this file is available in the current working directory.

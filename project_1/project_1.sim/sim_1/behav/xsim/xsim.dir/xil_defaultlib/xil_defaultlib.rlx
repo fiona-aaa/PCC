@@ -1,0 +1,20 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/JOIN.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/NPC.v,,JOIN,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/NPC.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/PC.v,,NPC,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/PC.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/alu.v,,PC,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/alu.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/cpu.v,,alu,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/cpu.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/decoder.v,,cpu,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/decoder.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/dmem.v,,decoder,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/dmem.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/ext16.v,,dmem,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/ext16.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/ext18.v,,ext16,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/ext18.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/ext5.v,,ext18,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/ext5.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/imem.v,,ext5,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/imem.v,1661259844,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/mux2x32.v,,imem,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/mux2x32.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/regfile.v,,mux2x32,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/regfile.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/top.v,,regfile,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/top.v,1661133780,verilog,,F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/top_tb.v,,top,,,,,,,,
+F:/project_set/vivado_projects/PCC/CPU-master/CPU-master/top_tb.v,1661133780,verilog,,,,top_tb,,,,,,,,
+F:/project_set/vivado_projects/PCC/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,

@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../multi_cycle_cpu.srcs/sources_1/ip/data_ram_1/sim/data_ram.v" \
+"../../../../multi_cycle_cpu.srcs/sources_1/ip/inst_rom/sim/inst_rom.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/adder.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/alu.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/decode.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/exe.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/fetch.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/mem.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/multi_cycle_cpu.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/regfile.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/wb.v" \
+"../../../../../../../../F.files/大二下/计算机组成原理/source_code/7_multi_cycle_cpu/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

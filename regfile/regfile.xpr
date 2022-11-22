@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="39" Path="F:/my project/vivado projects/regfile/regfile.xpr">
+<Project Version="7" Minor="39" Path="F:/project_set/vivado_projects/PCC/regfile/regfile.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="004bf3b5556d4aaea0073c89aa9f2f4f"/>
@@ -61,6 +61,7 @@
       <Filter Type="Srcs"/>
       <File Path="$PPRDIR/../3_regfile/regfile.v">
         <FileInfo>
+          <Attr Name="AutoDisabled" Val="1"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -68,6 +69,7 @@
       </File>
       <File Path="$PPRDIR/../3_regfile/regfile_display.v">
         <FileInfo>
+          <Attr Name="AutoDisabled" Val="1"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -89,6 +91,7 @@
       <Filter Type="Srcs"/>
       <File Path="$PPRDIR/../3_regfile/testbench.v">
         <FileInfo>
+          <Attr Name="AutoDisabled" Val="1"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>

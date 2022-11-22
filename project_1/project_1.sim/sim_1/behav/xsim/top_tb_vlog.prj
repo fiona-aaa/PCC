@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../CPU-master/CPU-master/JOIN.v" \
+"../../../../../CPU-master/CPU-master/NPC.v" \
+"../../../../../CPU-master/CPU-master/PC.v" \
+"../../../../../CPU-master/CPU-master/alu.v" \
+"../../../../../CPU-master/CPU-master/cpu.v" \
+"../../../../../CPU-master/CPU-master/decoder.v" \
+"../../../../../CPU-master/CPU-master/dmem.v" \
+"../../../../../CPU-master/CPU-master/ext16.v" \
+"../../../../../CPU-master/CPU-master/ext18.v" \
+"../../../../../CPU-master/CPU-master/ext5.v" \
+"../../../../../CPU-master/CPU-master/imem.v" \
+"../../../../../CPU-master/CPU-master/mux2x32.v" \
+"../../../../../CPU-master/CPU-master/regfile.v" \
+"../../../../../CPU-master/CPU-master/top.v" \
+"../../../../../CPU-master/CPU-master/top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
